@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+//implemented class Superior
 namespace CampusCoin.Models
 {
     public class Superior
