@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+//implmented class user
 namespace CampusCoin.Models
 {
     public class User:AuditableEntity
