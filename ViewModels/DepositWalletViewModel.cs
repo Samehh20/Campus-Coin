@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
-
+//implemented front page of deposit wallet
 namespace CampusCoin.ViewModels
 {
     public class DepositWalletViewModel
