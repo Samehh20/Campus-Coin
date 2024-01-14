@@ -7,8 +7,9 @@ namespace CampusCoin.Models
 {
     public class ClientType : AuditableEntity
     {
-        public int Id { get; set; }
+        
         public string  Title { get; set; }
+        public int Id { get; set; }
         public string Description { get; set; }
     }
 }
