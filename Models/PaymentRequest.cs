@@ -16,3 +16,4 @@ namespace CampusCoin.Models
         //attached details file
     }
 }
+//implement class paymentreq
