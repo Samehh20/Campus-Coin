@@ -14,7 +14,7 @@ namespace CampusCoin
     using CampusCoin.Infrastructure.Services;
     using CampusCoin.Models;
     using CampusCoin.Common.Interfaces;
-
+    //Adding DBContext to AppContext
     public static class DependencyInjection
     {
         public static IConfiguration _configuration;
