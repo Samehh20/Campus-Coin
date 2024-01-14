@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+//implemented class DepositTransactionType
 namespace CampusCoin.Models
 {
     public class DepositTransactionType : AuditableEntity
