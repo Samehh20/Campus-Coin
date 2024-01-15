@@ -13,8 +13,9 @@ namespace CampusCoin.Controllers
 {
     public class DepositTransactionController : Controller
     {
-        private readonly ICampusCoinRepository<DepositTransaction> _depositTransactionsRepository;
+        
         private readonly IUserDbRepository _userRepository;
+        private readonly ICampusCoinRepository<DepositTransaction> _depositTransactionsRepository;
         private readonly IWalletDbRepository _walletRepository;
         // private readonly ICampusCoinRepository<ManagerialBranch> _managerialBranchRepository;
         //private readonly ICampusCoinRepository<DepositTransactionType> _depositTransactionTypeRepository;
