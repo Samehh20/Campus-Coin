@@ -153,8 +153,9 @@ namespace CampusCoin.Controllers
         {
             var vmodel = new DepositWalletViewModel
             {
-                ManagerialBranchs = FillBranchSelectList(),
+               
                 CreditTransactionTypes = FillDepositTypesSelectList()
+                 ManagerialBranchs = FillBranchSelectList(),
             };
 
             return vmodel;
