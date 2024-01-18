@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+//Implementation of deposit transaction function.
 namespace CampusCoin.Models.Repositories
 {
     public class DepositTransactionsDbRepository : ICampusCoinRepository<DepositTransaction>,IDepositTransactionsRepository

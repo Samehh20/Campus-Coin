@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+//Implementation of some user-functions
 namespace CampusCoin.Models.Repositories
 {
     public class UserDbRepository : ICampusCoinRepository<User>,IUserDbRepository

@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+//Automatically creating wallet when new user is created, some functions on the wallet.
 namespace CampusCoin.Models.Repositories
 {
     public class WalletDbRepository : IWalletDbRepository
